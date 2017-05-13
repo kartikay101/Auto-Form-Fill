@@ -16,7 +16,7 @@ Run "./filler.sh" without ""
 It might download and install 2 small tools , for which it needs root acccess.
 The tools installed are "xdotool" and "wmctrl".
 
-It takes around 1 min 30 sec to fill and submit the complete form after the installation of the tools , so please be patient.
+It takes around 1 min 30 sec to FILL and SUBMIT the complete form after the installation of the tools , so please be patient.
 
 Do not touch your PC for the time , the script is running.
 
