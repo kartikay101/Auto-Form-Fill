@@ -100,5 +100,7 @@ xdotool key Return
 sleep 5
 xdotool key ctrl+w
 firefox "https://academia.srmuniv.ac.in/portalLivePage.do?portalLinkName=academia-academic-services&logout=true&serviceurl=https://academia.srmuniv.ac.in"
-
+sleep 2
+xdotool key ctrl+w
+clear
 echo "Thanks For Using This Piece Of Code"
