@@ -43,7 +43,7 @@ read qual
 chmod +x startff.sh
 sh ./startff.sh
 wmctrl -a firefox
-sleep 15
+sleep 20
 
 xdotool type $ID
 xdotool key Tab
