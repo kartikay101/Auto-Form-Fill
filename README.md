@@ -1,5 +1,7 @@
 # Auto-Form-Fill
 
+OLD SCRIPT DO NOT RUN WITH CURRENT FIREFOX
+
 This is a set of Auto Form Filling Scripts for filling the Feedback Form For SRM Academia Feedback Sessions
 
 To run it :
